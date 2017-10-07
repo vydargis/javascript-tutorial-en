@@ -52,7 +52,7 @@ Here's the overall picture:
 
 ![](metric-all.png)
 
-They are many properties, it's difficult to fit them all in the single picture, but their values are simple and easy to understand.
+There are many properties, it's difficult to fit them all in the single picture, but their values are simple and easy to understand.
 
 Let's start exploring them from the outside of the element.
 
