@@ -235,7 +235,7 @@ Mouse events have following properties:
   - If you want to handle `key:Ctrl`, then don't forget Mac users, they use `key:Cmd`, so it's better to check `if (e.metaKey || e.ctrlKey)`.
 
 - Window-relative coordinates: `clientX/clientY`.
-- Document-relative coordinates: `pageX/clientX`.
+- Document-relative coordinates: `pageX/pageY`.
 
 In the tasks below it's also important to deal with the selection as an unwanted side-effect of clicks.
 
